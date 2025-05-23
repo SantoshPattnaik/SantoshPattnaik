@@ -1,7 +1,7 @@
 ### Hi there 👋 Santosh Here😁😁
 
 - 🔭 I’m currently working on Hospital Management System Web Application
-- 🌱 I’m currently learning NextJS,ElectronJS,React Native
+- 🌱 I’m currently learning NextJS, ElectronJS, React Native
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with Native Applications And Cybersecurity
 - 💬 Ask me about Mysql ERN stack, Windows Applications
